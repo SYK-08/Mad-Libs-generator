@@ -1,0 +1,5 @@
+word1 = input("1st word:")
+word2 = input("2nd word:")
+word3 = input("3rd word:")
+print("")
+print("First sentence:\n" + "Children enjoy " + word1 + " the TV programs.\n\n" + "Second sentence:\n" + "Today student should be reconciled " + word2 + " the way things are changing.\n\n" + "Third sentence:\n" + "In a classroom student are to be trained to love " + word3)
